@@ -10,4 +10,11 @@ withdraw()
 {
 val=bal-amt
 }
-
+car-loans
+{
+------
+}
+home-loans
+{
+------
+}
